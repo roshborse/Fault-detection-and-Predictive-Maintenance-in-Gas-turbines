@@ -1,3 +1,2 @@
 # Gas-turbines
-Gears dataset classified into faulty and healthy with an accuracy of 87% using SVM.
-For regression model have used Nu-SVR as classifier
+The project work includes pre-processing & analyzing data, building and testing time domain statistical feature parameters, classification and  predictive analysis based on historic data using Python.
